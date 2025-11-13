@@ -74,18 +74,18 @@ Run Main.java
 Observe the output in the console
 
 🧰 Tech Stack
--Language: Java 17+
--Tools: IntelliJ IDEA, JDK
--Paradigm: Object-Oriented Programming
+- Language: Java 17+
+- Tools: IntelliJ IDEA, JDK
+- Paradigm: Object-Oriented Programming
 
 
 📘 Future Improvements
--Add user input via Scanner
--Save/load data from a file or database
--Add UI or REST API using Spring Boot
--Include automated unit tests
+- Add user input via Scanner
+- Save/load data from a file or database
+- Add UI or REST API using Spring Boot
+- Include automated unit tests
 
 
 👨‍💻 Author
--Nicolas Martina
--Aspiring Backend Engineer | Java Developer
+- Nicolas Martina
+- Aspiring Backend Engineer | Java Developer
