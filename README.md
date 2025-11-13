@@ -48,21 +48,21 @@ studentgradecalculator/
 
 
 
-Grade 85.0 added successfully!
-Grade 90.0 added successfully!
-Grade 88.0 added successfully!
-Student: Alice (ID: 1)
-Grades: [85.0, 90.0, 88.0]
-Final Average: 87.67
-Final Grade: B+
-Status: Passed ✅
-Class Average: 83.78
-Top student in Computer Science 101:
-Student: Charlie (ID: 3)
-Grades: [95.0, 92.0, 97.0]
-Final Average: 94.67
-Final Grade: A
-Status: Passed ✅
+- Grade 85.0 added successfully!
+- Grade 90.0 added successfully!
+- Grade 88.0 added successfully!
+- Student: Alice (ID: 1)
+- Grades: [85.0, 90.0, 88.0]
+- Final Average: 87.67
+- Final Grade: B+
+- Status: Passed ✅
+- Class Average: 83.78
+- Top student in Computer Science 101:
+- Student: Charlie (ID: 3)
+- Grades: [95.0, 92.0, 97.0]
+- Final Average: 94.67
+- Final Grade: A
+- Status: Passed ✅
 
 # 🧩 How to Run
 
@@ -74,18 +74,18 @@ Run Main.java
 Observe the output in the console
 
 🧰 Tech Stack
-Language: Java 17+
-Tools: IntelliJ IDEA, JDK
-Paradigm: Object-Oriented Programming
+-Language: Java 17+
+-Tools: IntelliJ IDEA, JDK
+-Paradigm: Object-Oriented Programming
 
 
 📘 Future Improvements
-Add user input via Scanner
-Save/load data from a file or database
-Add UI or REST API using Spring Boot
-Include automated unit tests
+-Add user input via Scanner
+-Save/load data from a file or database
+-Add UI or REST API using Spring Boot
+-Include automated unit tests
 
 
 👨‍💻 Author
-Nicolas Martina
-Aspiring Backend Engineer | Java Developer
+-Nicolas Martina
+-Aspiring Backend Engineer | Java Developer
